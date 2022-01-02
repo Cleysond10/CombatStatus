@@ -1,6 +1,6 @@
 ## Title: Combat Status
 ## Author: cleysond10
 ## APIVersion: 101032
-## Description: show the combat status when player enter combat or not.
+## Description: show the combat status when player enters combat or not.
 
 CombatStatus.lua
