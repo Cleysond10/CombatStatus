@@ -1,6 +1,8 @@
 # CombatStatus
 CombatStatus is a game addon for the MMORPG: The Elder Scrolls Online - ESO.
 
+Show the combat status when player enters combat or not.
+
 ===> INSTALLATION <===
 
 To intall, just unzip the project in the folder where your other addons are installed.
