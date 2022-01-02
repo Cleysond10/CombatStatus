@@ -2,5 +2,7 @@
 ## Author: cleysond10
 ## APIVersion: 101032
 ## Description: show the combat status when player enters combat or not.
+## SavedVariables: CombatStatusSavedVars
 
 CombatStatus.lua
+CombatStatus.xml
